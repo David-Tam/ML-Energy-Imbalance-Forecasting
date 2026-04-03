@@ -150,10 +150,3 @@ This notebook is designed to run on **Kaggle** with the competition dataset atta
 ## Tech Stack
 
 `Python` `XGBoost` `LightGBM` `Optuna` `SHAP` `Pandas` `NumPy` `Seaborn` `Scikit-learn` `CUDA`
-
----
-
-## Author
-
-**David Tam** — MSc Physics (SFU) | Data Scientist  
-[GitHub](https://github.com/David-Tam)
